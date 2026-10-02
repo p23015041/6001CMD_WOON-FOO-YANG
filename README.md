@@ -3,3 +3,5 @@ Source code for the 6001CMD Machine Learning individual assignment.
 
 # Dataset
 The analysis uses the Bank Marketing dataset (bank-full.csv) from the UCI Machine Learning Repository.
+
+The dataset can be obtained from: https://archive.ics.uci.edu/dataset/222/bank+marketing
